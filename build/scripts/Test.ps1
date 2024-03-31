@@ -21,7 +21,7 @@ Description:
 Options:
 
   -Platform <platform>
-      Only buil the selected platform(s)
+      Only build the selected platform(s)
       Example: -Platform x64
       Example: -Platform "x86,x64,arm64"
 
